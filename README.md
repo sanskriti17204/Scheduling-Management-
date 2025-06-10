@@ -36,6 +36,3 @@ The Faculty role provides essential capabilities for trainers to manage their as
 
 In essence, this system aims to provide a robust and user-friendly platform for managing training schedules, ensuring efficient operations for both administrators and faculty members.
 
----
-
-Would you like to explore any specific functional requirements in more detail?
